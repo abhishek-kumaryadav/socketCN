@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@abhk943](https://twitter.com/abhk943) - abhk943@gmail.com
+Abhishek Kumar Yadav - [twitter/abhk943](https://twitter.com/abhk943) - abhk943@gmail.com
 
 Project Link: [https://github.com/abhk943/socketCN](https://github.com/abhk943/socketCN)
 

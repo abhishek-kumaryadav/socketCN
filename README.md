@@ -1,4 +1,3 @@
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -50,6 +49,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#what-i-learned">What I Learned</a></li>
   </ol>
 </details>
 
@@ -200,8 +200,14 @@ Project Link: [https://github.com/abhk943/socketCN](https://github.com/abhk943/s
 - [python/multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 - [realpython/python-sockets](https://realpython.com/python-sockets/#echo-client-and-server)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- WHAT I LEARNED -->
+
+## What I Learned
+
+- **Basic _socket_ programming with python.**
+- **Use of _select and multi-threads_ to allow multiple simultaneous connections to server.**
+  <!-- MARKDOWN LINKS & IMAGES -->
+  <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/abhk943/socketCN.svg?style=for-the-badge
 [contributors-url]: https://github.com/abhk943/socketCN/graphs/contributors
